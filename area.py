@@ -1,0 +1,12 @@
+l=int(input("enter the length :"))
+b=int(input("enter the breath :"))
+area =int(l*b)
+print(area)
+perimeter=(2*l+b)
+print(perimeter)
+s=int(input("enter the side :"))
+area=int(s*s)
+print(area)
+perimeter=int(4*s)
+print(perimeter)
+
